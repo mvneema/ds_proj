@@ -55,6 +55,8 @@ I looked at the distributions of the data and the value counts for the various c
 
 ![](/EDA1.PNG)
 
+![](/EDA3.PNG)
+
 ![](/EDA2.PNG)
 
 # Model Building
