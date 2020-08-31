@@ -74,6 +74,6 @@ Gradient Boosting Regressor & Bagging to see how the model fits the data.
 # Model performance
 The Combination of Linear model & Gradient Boosting model far outperformed the other approaches on the test and validation sets.
 
-Gradient Boosting Regressor : MAE = 337453.71
-Linear Regression: MAE = 440621.25
-Ridge Regression: MAE = 445934.85
+* Gradient Boosting Regressor : MAE = 337453.71
+* Linear Regression: MAE = 440621.25
+* Ridge Regression: MAE = 445934.85
